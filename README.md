@@ -1,6 +1,4 @@
-### Hi there 👋 i'm Andrey
-
-
+This profile is usually active when I'm searching for a job
 
 <!--
 **andystep1/andystep1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
